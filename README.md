@@ -64,4 +64,4 @@ Der Quellcode ist in der Datei `SensorV1.ino` enthalten (siehe oben).
 
 ## Lizenz
 
-Dieses Projekt steht unter der MIT-Lizenz. Siehe `LICENSE.md` für Details.
+Dieses Projekt steht unter der MIT-Lizenz. Siehe `LICENSE` für Details.
